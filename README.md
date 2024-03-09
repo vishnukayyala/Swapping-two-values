@@ -26,8 +26,8 @@ Print both the values it would be interchanged
 ### Step 6: 
 End the program
 ## PROGRAM:
-
-
+![WhatsApp Image 2024-03-09 at 09 07 14_2c18d414](https://github.com/vishnukayyala/Swapping-two-values/assets/151489368/cc701437-a0d5-4094-8332-0a2a644d6f4e)
+![WhatsApp Image 2024-03-09 at 09 07 44_d401ed44](https://github.com/vishnukayyala/Swapping-two-values/assets/151489368/42468314-8c71-46bf-a610-d33ef8e7a1df)
 
 ## RESULT:
 Thus the swapping of two values are successfully executed
